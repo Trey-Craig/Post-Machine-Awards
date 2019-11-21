@@ -1,0 +1,10 @@
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\bin\Debug\netcoreapp2.1\Post Machine NBA Awards.deps.json
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\bin\Debug\netcoreapp2.1\Post Machine NBA Awards.runtimeconfig.json
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\bin\Debug\netcoreapp2.1\Post Machine NBA Awards.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\bin\Debug\netcoreapp2.1\Post Machine NBA Awards.dll
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\bin\Debug\netcoreapp2.1\Post Machine NBA Awards.pdb
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\obj\Debug\netcoreapp2.1\Post Machine NBA Awards.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\obj\Debug\netcoreapp2.1\Post Machine NBA Awards.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\obj\Debug\netcoreapp2.1\Post Machine NBA Awards.AssemblyInfo.cs
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\obj\Debug\netcoreapp2.1\Post Machine NBA Awards.dll
+C:\Users\MCA\source\repos\Post Machine NBA Awards\Post Machine NBA Awards\obj\Debug\netcoreapp2.1\Post Machine NBA Awards.pdb
